@@ -66,6 +66,7 @@
         android:layout_marginTop="47dp"
         android:layout_marginEnd="32dp"
         android:layout_marginRight="32dp"
+        android:onClick="userLogin"
         android:text="Login"
         app:backgroundTint="#21B6A8"
         app:layout_constraintEnd_toEndOf="parent"
