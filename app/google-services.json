@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "71158875520",
+    "firebase_url": "https://register-app-b2842-default-rtdb.firebaseio.com",
+    "project_id": "register-app-b2842",
+    "storage_bucket": "register-app-b2842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71158875520:android:483b721a8fc77ddcc32d65",
+        "android_client_info": {
+          "package_name": "com.example.easyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71158875520-botp5f84d2q8901nh40orefu3tm4icpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPhxxH0wY4KbuLivOV4xPkq1oAY3Z1cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71158875520-botp5f84d2q8901nh40orefu3tm4icpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71158875520:android:7511e23e3c435096c32d65",
+        "android_client_info": {
+          "package_name": "com.sampa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71158875520-botp5f84d2q8901nh40orefu3tm4icpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPhxxH0wY4KbuLivOV4xPkq1oAY3Z1cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71158875520-botp5f84d2q8901nh40orefu3tm4icpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
